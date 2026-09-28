@@ -135,6 +135,7 @@ h1, h2, h3 { line-height: 1.08; letter-spacing: -.035em; }
 .project-section { color: #f8fafc; background: #132034; }
 .project-section .section-number { color: var(--cyan); }
 .project-header { display: grid; grid-template-columns: 1fr .8fr; gap: 3rem; align-items: end; margin-bottom: 4.5rem; }
+.project-schedule { max-width: 650px; margin: 1.25rem 0 0; color: #c8d3e1; }
 .project-meta { display: grid; grid-template-columns: repeat(3, 1fr); gap: 1px; background: #324158; border: 1px solid #324158; }
 .project-meta span { display: flex; flex-direction: column; padding: 1.1rem; color: #aab7c9; background: #17263b; font-size: .75rem; }
 .project-meta strong { color: var(--cyan); font-size: 1.15rem; }
