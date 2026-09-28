@@ -1,16 +1,16 @@
-## Hi there 👋
+# DATA1009 Course Website
 
-<!--
-**python-learning1009/python-learning1009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Course website for **DATA1009 Computer Science and Programming Thinking**.
 
-Here are some ideas to get you started:
+The site is a lightweight static website. Open `index.html` locally or publish the repository with GitHub Pages.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Course materials
+
+- `DATA1009-Syllabus.docx`
+- `DATA1009-GroupPresentation.docx`
+- `DATA1009-Instructions for CoCalc.pdf`
+- `DATA1009-GroupAssignment.xlsx`
+
+## Publishing with GitHub Pages
+
+In the repository settings, open **Pages**, choose **Deploy from a branch**, then select the `main` branch and `/ (root)` folder.
