@@ -28,6 +28,7 @@ After an update, publish the changed files to the `main` branch and wait for Git
 | 02 — Data Types | `Pythonlearn-02-Data Types.pptx` | `/Pythonlearn-02-Data.Types.pptx` |
 | 03 — Expressions and Statements | `Pythonlearn-03-Expressions.pptx` | `/Pythonlearn-03-Expressions.pptx` |
 | 04 — Conditional Execution | `Pythonlearn-04-Conditional.pptx` | `/Pythonlearn-04-Conditional.pptx` |
+| 05 — Iterations | `Pythonlearn-05-Iterations.pptx` | `/Pythonlearn-05-Iterations.pptx` |
 
 Topic resources appear inside the matching `<li>` in `.topic-list` as an anchor with class `topic-slide`. The full URL pattern is:
 
