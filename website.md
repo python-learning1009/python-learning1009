@@ -30,6 +30,7 @@ After an update, publish the changed files to the `main` branch and wait for Git
 | 04 — Conditional Execution | `Pythonlearn-04-Conditional.pptx` | `/Pythonlearn-04-Conditional.pptx` |
 | 05 — Iterations | `Pythonlearn-05-Iterations.pptx` | `/Pythonlearn-05-Iterations.pptx` |
 | 06 — Functions | `Pythonlearn-06-Functions.pptx` | `/Pythonlearn-06-Functions.pptx` |
+| 07 — AI-Assisted Code Generation | `Pythonlearn-07-AI-Assisted-Code-Generation.pptx` | `/Pythonlearn-07-AI-Assisted-Code-Generation.pptx` |
 
 Topic resources appear inside the matching `<li>` in `.topic-list` as an anchor with class `topic-slide`. The full URL pattern is:
 
@@ -47,6 +48,8 @@ Section and card headings should remain visually distinct from explanation text,
 - Topic titles: `.topic-list h3`
 - Card and subsection titles: `.person-card h3`, `.outcomes h3`, `.project-steps h3`, `.deliverables h3`, and `.file-card h3`
 - Explanations remain regular body text (`p`) and should not visually compete with headings
+
+Topic rows use two columns only: the session number and the session content. Do not add trailing chapter, studio, or final-assessment badges.
 
 Use the existing responsive `clamp(...)` values when changing large headings. Keep body text at least `1rem` when it is essential course information.
 
