@@ -32,6 +32,8 @@ After an update, publish the changed files to the `main` branch and wait for Git
 | 06 — Functions | `Pythonlearn-06-Functions.pptx` | `/Pythonlearn-06-Functions.pptx` |
 | 07 — AI-Assisted Code Generation | `Pythonlearn-07-AI-Assisted-Code-Generation.pptx` | `/Pythonlearn-07-AI-Assisted-Code-Generation.pptx` |
 | 08 — Evaluating AI-Generated Code | `Pythonlearn-08-Evaluating-and-Improving-AI-Generated-Code.pptx` | `/Pythonlearn-08-Evaluating-and-Improving-AI-Generated-Code.pptx` |
+| 09 — Strings | `Pythonlearn-09-Strings.pptx` | `/Pythonlearn-09-Strings.pptx` |
+| 10 — Lists | `Pythonlearn-10-Lists.pptx` | `/Pythonlearn-10-Lists.pptx` |
 
 Topic resources appear inside the matching `<li>` in `.topic-list` as an anchor with class `topic-slide`. The full URL pattern is:
 
